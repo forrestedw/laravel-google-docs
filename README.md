@@ -4,6 +4,8 @@ A convenient chainable wrapper for `google/apiclient`
 It's simple now. More functions are added when I need them.
 
 ## Get started
+Watch [this](https://www.youtube.com/watch?v=iTZyuszEkxI) video to set up your `credetials.json`, then:
+
 ```php
 use Forrestedw\GoogleDocs\GoogleDoc;
 
